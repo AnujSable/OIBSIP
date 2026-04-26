@@ -1,0 +1,14 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Environments
+venv/
+env/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Local data/models (optional: if you want others to train it themselves)
+# models/*.pkl
